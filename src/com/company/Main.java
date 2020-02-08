@@ -6,6 +6,7 @@ public class Main {
         System.out.println("Raluca CHANGE FROM ui");
         System.out.println("Andrei");
         System.out.println("Bogdan");
+        System.out.println("Alex");
 	// write your code here
     }
 }
