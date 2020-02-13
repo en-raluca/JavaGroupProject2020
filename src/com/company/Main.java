@@ -11,5 +11,15 @@ public class Main {
         System.out.println("Ionut Porumb");
         System.out.println("Salut lume");
 	// write your code here
+
+    //Calling method calculSuma
+
+        Ionut obj=new Ionut();
+        obj.SumCalculation();
+
+
+
+
     }
+
 }
