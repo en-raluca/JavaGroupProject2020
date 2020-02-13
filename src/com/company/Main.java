@@ -9,6 +9,7 @@ public class Main {
         System.out.println("Alex");
         System.out.println("Raluca");
         System.out.println("Ionut Porumb");
+        System.out.println("Ionut Porumb 2");
         System.out.println("Salut lume");
 	// write your code here
 
