@@ -18,6 +18,10 @@ public class Main {
         Ionut obj=new Ionut();
         obj.SumCalculation();
 
+    //Calling method printFirst12FibonacciNo:
+
+        obj.printFirst12FibonacciNo();
+
 
 
 
